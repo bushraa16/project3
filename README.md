@@ -1,7 +1,7 @@
 # part1
 ## servo motor......
 ### the project explan how to connect servo motor with arduno uno use tinkercad and In reality
-## step1
+## step1 use tinkercad
 #### insert Urdino uno 
 #### insert resistor
  #### insert potentiometer
@@ -76,14 +76,41 @@ void loop()
 ### run the code
 ![servo motor](https://user-images.githubusercontent.com/79949101/180874858-a3a6e0ac-1d05-4bf2-89af-7b9928cb003a.jpg)
 
+https://user-images.githubusercontent.com/79949101/180876871-2ee58796-6d58-4762-bfd2-40a7dc164aea.MP4
+## servo motor in  reality
+## step1 
+#### insert Urdino uno 
+####  labtop
+####  wire 
+####  Ground
+#### Digital pin 9
+#### 5V
 
+## step 2
+### write the code 
+```
+#include <Servo.h>
+int pos=0;
+Servo servo1; 
 
+void setup() {
+  servo1.attach(9);  
+  servo1.write(180); 
+}
 
-https://user-images.githubusercontent.com/79949101/180875416-934ac239-5be4-49bc-9c3c-60921c09fdb8.mp4
+void loop() {
+  for (pos = 0; pos <= 90; pos += 1) { 
+      delay(10);                
+  }
+  for (pos = 90; pos >= 0; pos -= 1) { 
+      delay(10);                   
+  }
+}
+```
+## step 3
+### run the code
 
+https://user-images.githubusercontent.com/79949101/180878076-502d1e40-0899-48cc-a82e-e8177f8c1b9b.mp4
 
-
-
-https://user-images.githubusercontent.com/79949101/180875377-9affc0cb-1f6e-42c3-a3ee-d667cf3c1d0a.mp4
 
 
