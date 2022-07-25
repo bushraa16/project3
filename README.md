@@ -154,6 +154,37 @@ void loop() {
 ![stepper](https://user-images.githubusercontent.com/79949101/180884192-a3e1d272-ef20-49f3-881b-cf87c3a6f034.jpg)
 
 https://user-images.githubusercontent.com/79949101/180886354-e78f9f82-f79d-477a-977c-f93b3f8dabe7.mp4
+### part 3
+## brushless motor with arduino in tinkercad
+## step1 
+#### insert Urdino uno 
+####  9v battery
+####  dc motor (brushless motor)
+####  Ground
+#### wire positive
+#### wire negitive
+## step 2
+### write the code 
+```
+void setup()
+{
+  pinMode(3, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(3, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(3, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
+```
+## step 3
+### run the code
+![brushless motor](https://user-images.githubusercontent.com/79949101/180888199-85f5e772-3cee-4d13-886d-84f9971d429b.jpg)
+
+
+https://user-images.githubusercontent.com/79949101/180888517-7bdd9861-efc6-4517-82d7-b369b4846216.mp4
+
 
 
 
