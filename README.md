@@ -183,7 +183,11 @@ void loop()
 ![brushless motor](https://user-images.githubusercontent.com/79949101/180888199-85f5e772-3cee-4d13-886d-84f9971d429b.jpg)
 
 
-https://user-images.githubusercontent.com/79949101/180888517-7bdd9861-efc6-4517-82d7-b369b4846216.mp4
+
+
+https://user-images.githubusercontent.com/79949101/180888988-03935aa9-fce8-4423-83ac-066cb67f028c.mp4
+
+
 
 
 
