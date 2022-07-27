@@ -7,11 +7,8 @@
  #### insert potentiometer
  #### insert breadboard small
 ####  botao 3
-#### redLed 12
-#### greenLed 11
-#### blueLed 13
-#### potPin A0
-
+####  Connecting wires
+####  insert servo motor
 ## step 2
 ### write the code 
 ```
@@ -80,11 +77,12 @@ https://user-images.githubusercontent.com/79949101/180876871-2ee58796-6d58-4762-
 ## servo motor in  reality
 ## step1 
 #### insert Urdino uno 
+ #### insert breadboard small
 ####  labtop
+####  insert servo motor
 ####   wire connecting arduino to laptop
-####  Ground
-#### Digital pin 9
-#### 5V
+####  Connecting wires
+
 
 ## step 2
 ### write the code 
@@ -118,18 +116,7 @@ https://user-images.githubusercontent.com/79949101/180878076-502d1e40-0899-48cc-
 #### insert Urdino uno 
 ####  9v battery
 ####  dc motor with encoder (stepper)
-#### Digital pin 11
-#### Digital pin 10
-#### Digital pin 9
-#### Digital pin 8
-####  Ground
-#### 5V
-#### wire green
-#### wire black
-#### wire Red
-#### wire Yellow
-#### wire purple
-#### wire black
+####  Connecting wires
 ## step 2
 ### write the code 
 ```
@@ -160,9 +147,7 @@ https://user-images.githubusercontent.com/79949101/180886354-e78f9f82-f79d-477a-
 #### insert Urdino uno 
 ####  9v battery
 ####  dc motor (brushless motor)
-####  Ground
-#### wire positive
-#### wire negitive
+####  Connecting wires
 ## step 2
 ### write the code 
 ```
@@ -182,13 +167,15 @@ void loop()
 ### run the code
 ![brushless motor](https://user-images.githubusercontent.com/79949101/180888199-85f5e772-3cee-4d13-886d-84f9971d429b.jpg)
 
-
-
-
 https://user-images.githubusercontent.com/79949101/180888988-03935aa9-fce8-4423-83ac-066cb67f028c.mp4
 
+## brushless motor in reality
 
 
+![msg791111762-11318 (1)](https://user-images.githubusercontent.com/79949101/181353423-ca2bec6e-b4ab-42e5-86d6-160120f0feca.jpg)
+
+
+https://user-images.githubusercontent.com/79949101/181353448-50e74325-7944-428b-ad28-4c26dd0b311f.MP4
 
 
 
