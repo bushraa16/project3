@@ -3,12 +3,12 @@
 ### the project explan how to connect servo motor with arduno uno use tinkercad and In reality
 ## step1 use tinkercad
 #### insert Urdino uno 
+####  insert servo motor
 #### insert resistor
  #### insert potentiometer
  #### insert breadboard small
 ####  botao 3
 ####  Connecting wires
-####  insert servo motor
 ## step 2
 ### write the code 
 ```
@@ -116,6 +116,7 @@ https://user-images.githubusercontent.com/79949101/180878076-502d1e40-0899-48cc-
 #### insert Urdino uno 
 ####  9v battery
 ####  dc motor with encoder (stepper)
+ #### insert breadboard small
 ####  Connecting wires
 ## step 2
 ### write the code 
@@ -145,6 +146,7 @@ https://user-images.githubusercontent.com/79949101/180886354-e78f9f82-f79d-477a-
 ## brushless motor with arduino in tinkercad
 ## step1 
 #### insert Urdino uno 
+ #### insert breadboard small
 ####  9v battery
 ####  dc motor (brushless motor)
 ####  Connecting wires
